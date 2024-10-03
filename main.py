@@ -1,1 +1,2 @@
-print("dikdkd")
+print("cccc")
+print("fffff")
